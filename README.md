@@ -1,5 +1,10 @@
 ### Hello, GitHub
 
+My name is Courtney (CJ) Oka
+- Occupation: Professional typer @github
+- Pronouns: She/Her
+- Prefered Snack: All snacks! Leave no snacks behind 
+
 <!--
 **oakeyc/oakeyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
