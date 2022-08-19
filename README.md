@@ -1,7 +1,7 @@
 ### Hello, GitHub
 
 My name is Courtney (CJ) Oka
-- Occupation: Professional typer @github
+- Occupation: Professional typer @affirm
 - Pronouns: She/Her
 - Prefered Snack: All snacks! Leave no snacks behind 
 
