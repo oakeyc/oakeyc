@@ -3,7 +3,7 @@
 My name is Courtney (CJ) Oka
 - Occupation: Professional typer @affirm
 - Pronouns: She/Her
-- Prefered Snack: All snacks! Leave no snacks behind 
+- I'm currently soliciting for Vim Tips of the Day! https://github.com/oakeyc/VimTipOfTheDay
 
 <!--
 **oakeyc/oakeyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
